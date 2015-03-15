@@ -1,0 +1,7 @@
+git init .
+touch a.py
+echo "print ("hello world")">a.py>
+git add a.py/git add -A
+git commit -m "My first commit"
+git push origin master
+
